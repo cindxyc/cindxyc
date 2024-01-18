@@ -4,15 +4,20 @@ I'm Cindy, a 3rd year student at University of Toronto majoring in Mathematics w
 
 # About me 👩🏻‍💻
 
-👩🏻‍💻 I am a passionate developer, I find joy in writing code and seeing my masterpeices
-⌛️ Seeking Summer 2024 Internships
-🇨🇦 Based in Toronto, ON, Canada
-💻 Interested in Web Development and Software Engineering
-💬 Am always eager to learn and explore new technologies
+👩🏻‍💻 I am a passionate developer, I find joy in writing code and seeing my masterpeices <br/>
+⌛️ Seeking Summer 2024 Internships  
+🇨🇦 Based in Toronto, ON, Canada  
+💻 Interested in Web Development and Software Engineering  
+💬 Am always eager to learn and explore new technologies  
 
 Thanks for stopping by!
 
+# My skills
 
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css)](https://skillicons.dev)
+
+# Get in touch
+LinkedIn: [Cindy Chen](https://www.linkedin.com/in/cindxyc/)
 
 <!--
 **cindxyc/cindxyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
