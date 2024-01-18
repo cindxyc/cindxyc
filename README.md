@@ -1,8 +1,8 @@
-### Hi there 🪄 Welcome to cindxyc's GitHub
+## Hi there 🪄 Welcome to cindxyc's GitHub
 
 I'm Cindy, a 3rd year student at University of Toronto majoring in Mathematics with a double minor in Computer Science and Statistics.
 
-# About me 👩🏻‍💻
+### About me 👩🏻‍💻
 
 👩🏻‍💻 I am a passionate developer, I find joy in writing code and seeing my masterpeices <br/>
 ⌛️ Seeking Summer 2024 Internships  
@@ -12,11 +12,11 @@ I'm Cindy, a 3rd year student at University of Toronto majoring in Mathematics w
 
 Thanks for stopping by!
 
-# My skills
+### My skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css)](https://skillicons.dev)
 
-# Get in touch
+### Get in touch
 LinkedIn: [Cindy Chen](https://www.linkedin.com/in/cindxyc/)
 
 <!--
