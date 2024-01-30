@@ -17,7 +17,7 @@ Thanks for stopping by!
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css)](https://skillicons.dev)
 
 ### Get in touch
-LinkedIn: [Cindy Chen](https://www.linkedin.com/in/cindxyc/)
+LinkedIn: [Xinyi Cindy Chen](https://www.linkedin.com/in/cindxyc/)
 
 <!--
 **cindxyc/cindxyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
