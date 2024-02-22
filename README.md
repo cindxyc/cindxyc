@@ -14,7 +14,7 @@ Thanks for stopping by!
 
 ### My skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nodejs,postgres,latex,figma)](https://skillicons.dev)
 
 ### Get in touch
 LinkedIn: [Xinyi Cindy Chen](https://www.linkedin.com/in/cindxyc/)
