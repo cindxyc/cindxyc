@@ -5,7 +5,7 @@ I'm Cindy, a 3rd year student at University of Toronto majoring in Mathematics w
 ### About me
 
 👩🏻‍💻 I am a passionate developer, I find joy in writing code and seeing my masterpeices <br/>
-⌛️ Seeking Summer 2024 Internships  
+⌛️ Seeking 2025 SWE Internships  
 🇨🇦 Based in Toronto, ON, Canada  
 💻 Interested in Web Development and Software Engineering  
 💬 Am always eager to learn and explore new technologies  
