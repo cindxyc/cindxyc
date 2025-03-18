@@ -18,7 +18,7 @@ Thanks for stopping by!
 -->
 
 ### Get in touch
-LinkedIn: [Xinyi Cindy Chen](https://www.linkedin.com/in/cindxyc/)
+LinkedIn: [Cindee C](https://www.linkedin.com/in/cindxyc/)
 
 <!--
 **cindxyc/cindxyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
