@@ -1,20 +1,21 @@
-## Hi there 🪄 Welcome to cindxyc's GitHub
+## 🪄 Welcome to cindxyc's GitHub
 
-I'm Cindy, a 3rd year student at University of Toronto majoring in Mathematics with a double minor in Computer Science and Statistics.
+I'm Cindee, a fellow student at University of Toronto studying Mathematics, Computer Science and Statistics.
 
 ### About me
 
-👩🏻‍💻 I am a passionate developer, I find joy in writing code and seeing my masterpeices <br/>
-⌛️ Seeking 2025 SWE Internships  
-🇨🇦 Based in Toronto, ON, Canada  
-💻 Interested in Web Development and Software Engineering  
-💬 Am always eager to learn and explore new technologies  
+👩🏻‍💻 I am a passionate developer, I find joy in writing code and seeing my masterpeices develop <br/> 
+🇨🇦 Toronto, Canada
+💻 Interested in Web Development and Software Engineering
+💬 Love to explore new technologies
 
 Thanks for stopping by!
 
+<!--
 ### My skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nodejs,postgres,latex,figma)](https://skillicons.dev)
+-->
 
 ### Get in touch
 LinkedIn: [Xinyi Cindy Chen](https://www.linkedin.com/in/cindxyc/)
