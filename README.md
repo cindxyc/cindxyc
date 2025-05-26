@@ -4,9 +4,9 @@ I'm Cindee, a fellow student at University of Toronto studying Mathematics, Comp
 
 ### About me
 
-👩🏻‍💻 I am a passionate developer, I find joy in writing code and seeing my masterpeices develop <br/> 
-🇨🇦 Toronto, Canada
-💻 Interested in Web Development and Software Engineering
+👩🏻‍💻 I am a passionate developer, I find joy in writing code and seeing my masterpeices develop <br/>
+🇨🇦 Toronto, Canada <br/>
+💻 Interested in Web Development and Software Engineering <br/>
 💬 Love to explore new technologies
 
 Thanks for stopping by!
@@ -18,7 +18,7 @@ Thanks for stopping by!
 -->
 
 ### Get in touch
-LinkedIn: [Cindee C](https://www.linkedin.com/in/cindxyc/)
+[LinkedIn](https://www.linkedin.com/in/cindxyc/)
 
 <!--
 **cindxyc/cindxyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
