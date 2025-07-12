@@ -1,11 +1,9 @@
 ## 🪄 Welcome to cindxyc's GitHub
 
-I'm Cindee, a fellow student at University of Toronto studying Mathematics, Computer Science and Statistics.
-
 ### About me
 
 👩🏻‍💻 I am a passionate developer, I find joy in writing code and seeing my masterpeices develop <br/>
-🇨🇦 Toronto, Canada <br/>
+🎓 Student at University of Toronto studying Mathematics, Computer Science and Statistics <br/>
 💻 Interested in Web Development and Software Engineering <br/>
 💬 Love to explore new technologies
 
@@ -15,7 +13,7 @@ Thanks for stopping by!
 ### My skills
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,nodejs,postgres,latex,figma)](https://skillicons.dev)
--->
+
 
 ### Get in touch
 [LinkedIn](https://www.linkedin.com/in/cindxyc/)
